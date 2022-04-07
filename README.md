@@ -1,4 +1,4 @@
-### Welcome. I'm:
+### Oh, hi there. I'm:
 ```
 {
     'name': 'Brian Uehlin',
@@ -8,3 +8,4 @@
     'workingOn': 'learning new technologies'
 }
 ```
+#### Peruse some of my projects at your leisure.
